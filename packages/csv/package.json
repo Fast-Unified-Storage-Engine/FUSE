@@ -1,0 +1,37 @@
+{
+  "name": "@fusedb/csv",
+  "version": "0.0.1",
+  "description": "A FUSE driver for storing data using CSV as the storage engine.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fast-Unified-Storage-Engine/FUSE.git"
+  },
+  "keywords": [
+    "FUSE",
+    "driver",
+    "adapter",
+    "addon",
+    "plugin",
+    "key-value",
+    "key",
+    "value",
+    "database",
+    "data",
+    "store",
+    "csv"
+  ],
+  "author": "Sectly",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Fast-Unified-Storage-Engine/FUSE/issues"
+  },
+  "homepage": "https://github.com/Fast-Unified-Storage-Engine/FUSE#readme",
+  "dependencies": {
+    "csv-parse": "^5.6.0",
+    "csv-stringify": "^6.5.2"
+  }
+}

@@ -132,7 +132,7 @@ You don't need to be part of the official org to contribute - just follow the na
 
 ---
 
-### 🙏 Thank You
+### 😄 Thank You
 
 Every contribution matters - whether it’s fixing bugs, improving docs, or building new modules.
 FUSE is a community effort, and your creativity helps push it forward.
